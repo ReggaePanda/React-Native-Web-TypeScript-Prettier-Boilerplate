@@ -50,7 +50,7 @@
     "@types/passport": "1.0.0",
     "@types/passport-oauth2": "1.4.8",
     "@types/passport-strategy": "^0.2.35",
-    "@types/passport-twitter": "1.0.34",
+    "@types/passport-twitter": "1.0.36",
     "dtslint": "^0.8.0",
     "nodemon": "^1.18.10",
     "passport-strategy": "^1.0.0",
