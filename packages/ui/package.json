@@ -47,7 +47,7 @@
     "@types/styled-components": "4.1.18",
     "awesome-typescript-loader": "5.2.1",
     "babel-loader": "8.0.6",
-    "babel-plugin-styled-components": "1.10.6",
+    "babel-plugin-styled-components": "1.12.0",
     "concurrently": "^4.1.0",
     "file-loader": "4.0.0",
     "jest": "24.8.0",
