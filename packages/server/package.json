@@ -48,7 +48,7 @@
     "@types/ioredis": "4.0.13",
     "@types/node": "12.6.2",
     "@types/passport": "1.0.0",
-    "@types/passport-oauth2": "1.4.8",
+    "@types/passport-oauth2": "1.4.10",
     "@types/passport-strategy": "^0.2.35",
     "@types/passport-twitter": "1.0.34",
     "dtslint": "^0.8.0",
