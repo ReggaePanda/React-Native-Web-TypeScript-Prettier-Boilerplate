@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
-    "@types/config": "0.0.34",
+    "@types/config": "0.0.38",
     "@types/connect-redis": "0.0.10",
     "@types/dotenv-safe": "^5.0.3",
     "@types/express-session": "1.15.13",
