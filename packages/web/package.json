@@ -35,7 +35,7 @@
     "react-apollo": "2.5.8",
     "react-dom": "16.8.6",
     "semantic-ui-less": "2.4.1",
-    "semantic-ui-react": "0.87.3",
+    "semantic-ui-react": "2.0.3",
     "styled-components": "4.3.2",
     "typescript-babel-jest": "1.0.6"
   },
