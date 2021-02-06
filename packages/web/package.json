@@ -52,7 +52,7 @@
     "graphql-codegen-typescript-client": "0.18.2",
     "graphql-codegen-typescript-common": "0.18.2",
     "graphql-codegen-typescript-react-apollo": "0.18.2",
-    "less": "3.9.0",
+    "less": "4.1.1",
     "next-transpile-modules": "2.3.1",
     "nodemon": "1.19.1",
     "prettier": "^1.16.4",
