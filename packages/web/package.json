@@ -46,7 +46,7 @@
     "@types/styled-components": "4.1.18",
     "@zeit/next-less": "1.0.1",
     "babel-plugin-styled-components": "1.10.6",
-    "cypress": "^3.3.2",
+    "cypress": "^7.0.0",
     "file-loader": "4.0.0",
     "graphql-code-generator": "0.18.2",
     "graphql-codegen-typescript-client": "0.18.2",
