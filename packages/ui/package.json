@@ -30,7 +30,7 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-typescript": "^7.3.3",
     "@quickbaseoss/babel-plugin-styled-components-css-namespace": "1.0.0-rc3",
-    "@storybook/addon-a11y": "5.1.9",
+    "@storybook/addon-a11y": "6.2.9",
     "@storybook/addon-actions": "5.1.9",
     "@storybook/addon-centered": "5.1.9",
     "@storybook/addon-info": "5.1.9",
