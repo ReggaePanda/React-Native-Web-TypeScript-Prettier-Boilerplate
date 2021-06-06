@@ -20,14 +20,14 @@
     "apollo-link-http": "1.5.15",
     "react": "16.8.6",
     "react-apollo": "2.5.8",
-    "react-native": "0.59.10",
+    "react-native": "0.64.2",
     "styled-components": "4.3.2"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/runtime": "7.5.4",
     "@types/react": "16.8.23",
-    "@types/react-native": "0.60.0",
+    "@types/react-native": "0.64.10",
     "@types/styled-components": "^4.1.10",
     "babel-jest": "^24.8.0",
     "babel-preset-react-native": "5.0.2",
