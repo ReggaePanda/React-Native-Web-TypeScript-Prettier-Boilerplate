@@ -46,7 +46,7 @@
     "@types/dotenv-safe": "^5.0.3",
     "@types/express-session": "1.15.13",
     "@types/ioredis": "4.0.13",
-    "@types/node": "12.6.2",
+    "@types/node": "12.20.15",
     "@types/passport": "1.0.0",
     "@types/passport-oauth2": "1.4.8",
     "@types/passport-strategy": "^0.2.35",
