@@ -21,7 +21,7 @@
     "semantic-ui-calendar-react": "0.15.2",
     "semantic-ui-css": "2.4.1",
     "semantic-ui-react": "0.87.3",
-    "styled-components": "4.3.2"
+    "styled-components": "5.3.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
@@ -44,7 +44,7 @@
     "@types/storybook__addon-centered": "3.4.1",
     "@types/storybook__addon-knobs": "5.0.2",
     "@types/storybook__react": "4.0.2",
-    "@types/styled-components": "4.1.18",
+    "@types/styled-components": "5.1.10",
     "awesome-typescript-loader": "5.2.1",
     "babel-loader": "8.0.6",
     "babel-plugin-styled-components": "1.10.6",
